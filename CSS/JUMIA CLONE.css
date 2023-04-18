@@ -1,0 +1,48 @@
+.hero{
+    background-color: blue;
+}
+.sell{
+    background-color:  rgb(224, 221, 221); 
+}
+.jumia{
+    background-color: white;
+}
+.jumia input{
+    width: 510px;
+    height: 50px;
+    border-radius: 5px;
+}
+.jumia a{
+    font-size: 20px;
+    background-color: rgb(255, 143, 7);
+    color: white;
+    margin-left: 12px;
+    box-shadow:0px 0px 5px #000 ;
+    width: 110px;
+    height: 46px;
+}
+.form{
+    border: 0px;
+}
+.super{
+    background-color: blue;  
+}
+.carousel{
+    width: 940px;
+}
+.image img{
+    position: relative;
+    left: 365px;
+    bottom: 553px;
+}
+.first img{
+    position: relative;
+    left: 715px;
+    bottom: 270px;
+}
+.table{
+    background-color: white;
+    position: relative;
+    bottom: 370px;
+   
+}
